@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #0a1f29f2;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9k5DPjL9yNpnxB7GRyP0nzd_Md5uz93o3Q&usqp=CAU);
+}
+
+.btn{
+    width:90px;
+}
+
+
+.btn-success{
+    background-color: #284b63;
+}
+
